@@ -34,3 +34,24 @@ code {
   border-bottom: 2px solid white;
   padding-bottom: 5px;
 }
+
+.enquiry-input{
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 500px;
+  height: 36px;
+  color: black;
+}
+.enquiry-input:focus{
+outline: none;
+}
+.enquiry-textarea:focus{
+outline: none;
+}
+.enquiry-textarea{
+  border: 1px solid black
+}
+.enquiry-textarea::placeholder{
+  padding: 5px;
+  padding-left: 10px;
+}
