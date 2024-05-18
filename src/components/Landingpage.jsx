@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import Toppage from './Toppage'
 import Aboutpage from './Aboutpage'
+import Footer from './Footer'
 
 export default function Landingpage() {
   return (
@@ -13,6 +14,7 @@ export default function Landingpage() {
         <Navbar />
         <Toppage />
         <Aboutpage/>
+        <Footer/>
         </div>
       </div>
     </div>
