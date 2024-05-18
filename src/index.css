@@ -60,3 +60,11 @@ outline: none;
   padding-left: 10px;
 }
 
+.signin-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  justify-content: center;
+  align-items: center;
+  
+}
