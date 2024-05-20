@@ -1,8 +1,10 @@
 import React from 'react'
+
 import Navbar from './Navbar'
 import Toppage from './Toppage'
 import Aboutpage from './Aboutpage'
 import Footer from './Footer'
+import Images from './Images'
 
 export default function Landingpage() {
   return (
@@ -13,6 +15,7 @@ export default function Landingpage() {
 
         <Navbar />
         <Toppage />
+        <Images/>
         <Aboutpage/>
         <Footer/>
         </div>

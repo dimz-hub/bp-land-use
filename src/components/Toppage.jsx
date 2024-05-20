@@ -11,7 +11,7 @@ export default function Toppage() {
               </h1>
               <p className='text-[white] text-[35px]'>
 
-For all residential, commercial, industrial and Agricultural land.
+For all Residential, Commercial, Industrial and Agricultural lands.
               </p>
             </div>
         </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 function Aboutpage() {
     return (
-        <div className="max-w-screen mt-14 p-12 bg-gray-100 mx-auto text-center" id="about">
+        <div className="max-w-screen p-12 bg-gray-100 mx-auto text-center" id="about">
             <h1 className="text-4xl font-bold my-10 ">About Tobela Real Estate Services</h1>
             <p className="text-left text-xl">Welcome to Tobela Real Estate Services, your trusted partner in real estate investment and development. With a commitment to excellence and a track record of success, we are proud to be a government-certified real estate company specializing in obtaining Lagos State certified Planning Permits For all residential, commercial, industrial and Agricultural land.
 <br/>
